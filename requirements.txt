@@ -3,6 +3,6 @@ joblib
 matplotlib==3.5.1
 numpy
 pandas
-scikit_learn
+scikit_learn==1.0.2
 shap
 streamlit
