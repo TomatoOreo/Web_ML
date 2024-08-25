@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 plt.rcParams['font.sans-serif'] = ['Microsoft YaHei']
 plt.rcParams['axes.unicode_minus'] = False
 
+from sklearn.ensemble import RandomForestClassifier
 import shap
 
 import joblib
