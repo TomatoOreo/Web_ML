@@ -1,9 +1,10 @@
-pip==24.2
-joblib
+joblib==1.1.0
+joblib==1.3.2
 matplotlib==3.5.1
 numpy
-pandas
-distutils
+pandas==1.2.4
+pandas==1.3.5
 scikit_learn==1.0.2
 shap
-streamlit
+shap
+streamlit==1.23.1
