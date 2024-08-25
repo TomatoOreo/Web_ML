@@ -1,7 +1,7 @@
 pip==24.2
 joblib
 matplotlib==3.5.1
-numpy==1.21.4
+numpy
 pandas
 scikit_learn
 shap
